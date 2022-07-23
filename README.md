@@ -1,4 +1,4 @@
-## MySql
+## MySQL
 This is studying material, scripts, and etc for MySQL.
 
 ## History
